@@ -147,9 +147,9 @@ images.save("output.png")
 compared to 25.67 G if CPU offload is not enabled), but the inference time will increase significantly(5.18s v.s. 
 17.74s on A100 40G).
 
-For faster inference, please refer to our future work.
+3. For faster inference, please refer to our future work.
 
-For ComfyUI, please visit [ComfyUI-Animemory-Loader](https://github.com/animEEEmpire/ComfyUI-Animemory-Loader).
+4. For ComfyUI, please visit [ComfyUI-Animemory-Loader](https://github.com/animEEEmpire/ComfyUI-Animemory-Loader).
 
 # Citation
 
