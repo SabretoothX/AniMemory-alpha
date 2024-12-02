@@ -13,7 +13,7 @@ of the anime community, and we greatly value any feedback.
 
 # News
 
-* 2024.12.2 🔥 Model and code released!
+* 2024.12.2 🔥 Model and code released! Supports both Diffusers and ComfyUI.
 
 # Key Features
 
